@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://pedronauck.github.io/csb-xut4hw/static/css/main.fc5c2c69.css",
+    "main.js": "https://pedronauck.github.io/csb-xut4hw/static/js/main.9df817c0.js",
+    "index.html": "https://pedronauck.github.io/csb-xut4hw/index.html",
+    "main.fc5c2c69.css.map": "https://pedronauck.github.io/csb-xut4hw/static/css/main.fc5c2c69.css.map",
+    "main.9df817c0.js.map": "https://pedronauck.github.io/csb-xut4hw/static/js/main.9df817c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.9df817c0.js"
+  ]
+}
